@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# resolving requirements for tasks
+127.0.0.1 localhost
+8.8.8.8 facebook.com
